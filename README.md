@@ -1,5 +1,8 @@
 # 🎮 Valorant Demo Website  
 
+
+🔗 **Live Demo:** [game-website-bay.vercel.app](https://game-website-bay.vercel.app/) 
+
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)  
 [![GSAP](https://img.shields.io/badge/GSAP-Animation-88CE02?style=for-the-badge&logo=greensock&logoColor=white)](https://greensock.com/gsap/)  
 [![Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)  
